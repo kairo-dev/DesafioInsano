@@ -52,7 +52,5 @@ while i<=n:
     i+=1
 print("a lista codificada é:",listacod)
 print("a lista descodificada é:",lista)
-#acho que ta fazendo oque era pra fazer so mentaliza que ai tem algumas função separada ksksks
-#observação não faço ideia de onde ta vindo as barra noq chamei de lista 2
 
 
